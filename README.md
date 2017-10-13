@@ -3,11 +3,11 @@ a little proj for Computer Graphics, in pixel zoom draw line and arc with Bresen
 
 包括：
 
-- [ ] 像素显示框架
+- [x] 像素显示框架
 
-- [ ] 画直线，画一定宽度的直线
+- [x] 画直线，画一定宽度的直线
 
-- [ ] 画圆弧，画圆
+- [x] 画圆弧，画圆
 
 
 
